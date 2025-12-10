@@ -7,6 +7,7 @@
 
 int main() {
 
+    printf("\nHello world\n \n");
     // 🧩 Nível Novato: Fila de Peças Futuras
     //
     // - Crie uma struct Peca com os campos: tipo (char) e id (int).
